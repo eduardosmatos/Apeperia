@@ -1,6 +1,7 @@
 <h1 align="center">Apeperia 📱</h1>
 
 <p align="center">Projeto criado para apresentar a plataforma Apeperia, um site voltado para a venda de serviços de desenvolvimento de aplicativos sob medida para as empresas mediante a planos de assinatura.</p>
+<p align="center">Projeto elaborado através do curso da Alura de HTML e CSS.</p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
